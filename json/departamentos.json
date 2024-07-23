@@ -1,0 +1,377 @@
+[{
+        "departamento_id": "01",
+        "departamento_nombre": "CONCEPCION",
+        "ciudades": [
+            { "ciudad_id": "010", "ciudad_nombre": "PASO BARRETO" },
+            { "ciudad_id": "009", "ciudad_nombre": "SGTO. JOSE F. LOPEZ" },
+            { "ciudad_id": "008", "ciudad_nombre": "AZOTEY" },
+            { "ciudad_id": "007", "ciudad_nombre": "YBY YAU" },
+            { "ciudad_id": "006", "ciudad_nombre": "SAN LAZARO" },
+            { "ciudad_id": "005", "ciudad_nombre": "SAN CARLOS" },
+            { "ciudad_id": "004", "ciudad_nombre": "LORETO" },
+            { "ciudad_id": "003", "ciudad_nombre": "HORQUETA" },
+            { "ciudad_id": "002", "ciudad_nombre": "BELEN" },
+            { "ciudad_id": "001", "ciudad_nombre": "CONCEPCION" }
+        ]
+    },
+    {
+        "departamento_id": "02",
+        "departamento_nombre": "SAN PEDRO",
+        "ciudades": [
+            { "ciudad_id": "022", "ciudad_nombre": "GRAL. AQUINO - SPS" },
+            { "ciudad_id": "021", "ciudad_nombre": "VILLA DEL ROSARIO - SPS" },
+            { "ciudad_id": "013", "ciudad_nombre": "VILLA DEL ROSARIO - SPN" },
+            { "ciudad_id": "020", "ciudad_nombre": "LIBERACION" },
+            { "ciudad_id": "015", "ciudad_nombre": "YATAITY DEL NORTE" },
+            { "ciudad_id": "005", "ciudad_nombre": "ITACURUBI DEL ROSARIO" },
+            { "ciudad_id": "014", "ciudad_nombre": "GENERAL RESQUIN" },
+            { "ciudad_id": "001", "ciudad_nombre": "SAN PEDRO DEL YCUAMANDIYU" },
+            { "ciudad_id": "004", "ciudad_nombre": "GENERAL AQUINO - SPN" },
+            { "ciudad_id": "019", "ciudad_nombre": "YRYBYCUA" },
+            { "ciudad_id": "018", "ciudad_nombre": "SANTA ROSA DEL AGUARAY" },
+            { "ciudad_id": "016", "ciudad_nombre": "GUAYAIBI" },
+            { "ciudad_id": "017", "ciudad_nombre": "CAPIIBARY" },
+            { "ciudad_id": "012", "ciudad_nombre": "25 DE DICIEMBRE" },
+            { "ciudad_id": "011", "ciudad_nombre": "UNION" },
+            { "ciudad_id": "010", "ciudad_nombre": "TACUATI" },
+            { "ciudad_id": "009", "ciudad_nombre": "SAN PABLO" },
+            { "ciudad_id": "008", "ciudad_nombre": "SAN ESTANISLAO" },
+            { "ciudad_id": "007", "ciudad_nombre": "NUEVA GERMANIA" },
+            { "ciudad_id": "006", "ciudad_nombre": "LIMA" },
+            { "ciudad_id": "002", "ciudad_nombre": "ANTEQUERA" },
+            { "ciudad_id": "003", "ciudad_nombre": "CHORE" }
+        ]
+    },
+    {
+        "departamento_id": "03",
+        "departamento_nombre": "CORDILLERA",
+        "ciudades": [
+            { "ciudad_id": "015", "ciudad_nombre": "1RO DE MARZO" },
+            { "ciudad_id": "008", "ciudad_nombre": "ISLA PUCU" },
+            { "ciudad_id": "007", "ciudad_nombre": "EUSEBIO AYALA" },
+            { "ciudad_id": "006", "ciudad_nombre": "EMBOSCADA" },
+            { "ciudad_id": "005", "ciudad_nombre": "CARAGUATAY" },
+            { "ciudad_id": "004", "ciudad_nombre": "ATYRA" },
+            { "ciudad_id": "003", "ciudad_nombre": "ARROYOS Y ESTEROS" },
+            { "ciudad_id": "002", "ciudad_nombre": "ALTOS" },
+            { "ciudad_id": "019", "ciudad_nombre": "VALENZUELA" },
+            { "ciudad_id": "018", "ciudad_nombre": "TOBATI" },
+            { "ciudad_id": "017", "ciudad_nombre": "SANTA ELENA" },
+            { "ciudad_id": "016", "ciudad_nombre": "SAN BERNARDINO" },
+            { "ciudad_id": "014", "ciudad_nombre": "PIRIBEBUY" },
+            { "ciudad_id": "013", "ciudad_nombre": "NUEVA COLOMBIA" },
+            { "ciudad_id": "012", "ciudad_nombre": "MBOCAYATY DEL YHAGUY" },
+            { "ciudad_id": "011", "ciudad_nombre": "LOMA GRANDE" },
+            { "ciudad_id": "010", "ciudad_nombre": "JUAN DE MENA" },
+            { "ciudad_id": "001", "ciudad_nombre": "CAACUPE" },
+            { "ciudad_id": "009", "ciudad_nombre": "ITACURUBI DE LA CORDILLERA" },
+            { "ciudad_id": "020", "ciudad_nombre": "SAN JOSE OBRERO" }
+        ]
+    },
+    {
+        "departamento_id": "04",
+        "departamento_nombre": "GUAIRA",
+        "ciudades": [
+            { "ciudad_id": "015", "ciudad_nombre": "YATAITY" },
+            { "ciudad_id": "006", "ciudad_nombre": "GENERAL GARAY" },
+            { "ciudad_id": "016", "ciudad_nombre": "DOCTOR BOTRELL" },
+            { "ciudad_id": "018", "ciudad_nombre": "TEBICUARY" },
+            { "ciudad_id": "014", "ciudad_nombre": "SAN SALVADOR" },
+            { "ciudad_id": "013", "ciudad_nombre": "ÑUMI" },
+            { "ciudad_id": "012", "ciudad_nombre": "NATALICIO TALAVERA" },
+            { "ciudad_id": "011", "ciudad_nombre": "MBOCAYATY" },
+            { "ciudad_id": "010", "ciudad_nombre": "JOSE FASSARDI" },
+            { "ciudad_id": "009", "ciudad_nombre": "ITURBE" },
+            { "ciudad_id": "008", "ciudad_nombre": "ITAPE" },
+            { "ciudad_id": "007", "ciudad_nombre": "INDEPENDENCIA" },
+            { "ciudad_id": "005", "ciudad_nombre": "FELIX PEREZ CARDOZO" },
+            { "ciudad_id": "004", "ciudad_nombre": "CORONEL MARTINEZ" },
+            { "ciudad_id": "003", "ciudad_nombre": "MAURICIO JOSÉ TROCHE" },
+            { "ciudad_id": "002", "ciudad_nombre": "BORJA" },
+            { "ciudad_id": "017", "ciudad_nombre": "PASO YOBAI" },
+            { "ciudad_id": "001", "ciudad_nombre": "VILLARRICA" }
+        ]
+    },
+    {
+        "departamento_id": "05",
+        "departamento_nombre": "CAAGUAZU",
+        "ciudades": [
+            { "ciudad_id": "014", "ciudad_nombre": "RAUL A. OVIEDO" },
+            { "ciudad_id": "022", "ciudad_nombre": "CNEL. TOLEDO" },
+            { "ciudad_id": "005", "ciudad_nombre": "STA. ROSA DEL MBUTUY" },
+            { "ciudad_id": "007", "ciudad_nombre": "REPATRIACION" },
+            { "ciudad_id": "016", "ciudad_nombre": "MCAL. LOPEZ" },
+            { "ciudad_id": "015", "ciudad_nombre": "JOSE DOMINGO OCAMPOS" },
+            { "ciudad_id": "012", "ciudad_nombre": "JOSE EULOGIO ESTIGARRIBIA" },
+            { "ciudad_id": "021", "ciudad_nombre": "TEMBIAPORA" },
+            { "ciudad_id": "013", "ciudad_nombre": "R I 3 CORRALES" },
+            { "ciudad_id": "006", "ciudad_nombre": "JUAN MANUEL FRUTOS" },
+            { "ciudad_id": "001", "ciudad_nombre": "CORONEL OVIEDO" },
+            { "ciudad_id": "018", "ciudad_nombre": "TRES DE FEBRERO" },
+            { "ciudad_id": "011", "ciudad_nombre": "YHU" },
+            { "ciudad_id": "019", "ciudad_nombre": "SIMON BOLIVAR" },
+            { "ciudad_id": "010", "ciudad_nombre": "SAN JOSE DE LOS ARROYOS" },
+            { "ciudad_id": "009", "ciudad_nombre": "SAN JOAQUIN" },
+            { "ciudad_id": "008", "ciudad_nombre": "NUEVA LONDRES" },
+            { "ciudad_id": "017", "ciudad_nombre": "LA PASTORA" },
+            { "ciudad_id": "004", "ciudad_nombre": "CECILIO BAEZ" },
+            { "ciudad_id": "003", "ciudad_nombre": "CARAYAO" },
+            { "ciudad_id": "020", "ciudad_nombre": "VAQUERIA" },
+            { "ciudad_id": "002", "ciudad_nombre": "CAAGUAZU" }
+        ]
+    },
+    {
+        "departamento_id": "06",
+        "departamento_nombre": "CAAZAPA",
+        "ciudades": [
+            { "ciudad_id": "011", "ciudad_nombre": "3 DE MAYO" },
+            { "ciudad_id": "005", "ciudad_nombre": "GENERAL MORINIGO" },
+            { "ciudad_id": "009", "ciudad_nombre": "YEGROS" },
+            { "ciudad_id": "008", "ciudad_nombre": "TAVAI" },
+            { "ciudad_id": "006", "ciudad_nombre": "MACIEL" },
+            { "ciudad_id": "004", "ciudad_nombre": "MOISES BERTONI" },
+            { "ciudad_id": "003", "ciudad_nombre": "BUENA VISTA" },
+            { "ciudad_id": "002", "ciudad_nombre": "AVAI" },
+            { "ciudad_id": "010", "ciudad_nombre": "YUTY" },
+            { "ciudad_id": "001", "ciudad_nombre": "CAAZAPA" },
+            { "ciudad_id": "007", "ciudad_nombre": "SAN JUAN NEPOMUCENO" }
+        ]
+    },
+    {
+        "departamento_id": "07",
+        "departamento_nombre": "ITAPUA",
+        "ciudades": [
+            { "ciudad_id": "009", "ciudad_nombre": "CARLOS A. LOPEZ" },
+            { "ciudad_id": "024", "ciudad_nombre": "TOMAS ROMERO PEREIRA" },
+            { "ciudad_id": "019", "ciudad_nombre": "SAN COSME Y SAN DAMIAN" },
+            { "ciudad_id": "010", "ciudad_nombre": "NATALIO" },
+            { "ciudad_id": "023", "ciudad_nombre": "EDELIRA" },
+            { "ciudad_id": "008", "ciudad_nombre": "CORONEL BOGADO" },
+            { "ciudad_id": "011", "ciudad_nombre": "COLONIA FRAM" },
+            { "ciudad_id": "001", "ciudad_nombre": "ENCARNACION" },
+            { "ciudad_id": "005", "ciudad_nombre": "CAPITÁN MIRANDA" },
+            { "ciudad_id": "004", "ciudad_nombre": "CAPITÁN MEZA" },
+            { "ciudad_id": "013", "ciudad_nombre": "GENERAL DELGADO" },
+            { "ciudad_id": "012", "ciudad_nombre": "GENERAL ARTIGAS" },
+            { "ciudad_id": "099", "ciudad_nombre": "MOVIL" },
+            { "ciudad_id": "006", "ciudad_nombre": "NUEVA ALBORADA" },
+            { "ciudad_id": "027", "ciudad_nombre": "YATYTAY" },
+            { "ciudad_id": "022", "ciudad_nombre": "TRINIDAD" },
+            { "ciudad_id": "021", "ciudad_nombre": "SAN RAFAEL DEL PARANA" },
+            { "ciudad_id": "020", "ciudad_nombre": "SAN PEDRO DEL PARANA" },
+            { "ciudad_id": "028", "ciudad_nombre": "SAN JUAN DEL PARANA" },
+            { "ciudad_id": "029", "ciudad_nombre": "PIRAPO" },
+            { "ciudad_id": "017", "ciudad_nombre": "OBLIGADO" },
+            { "ciudad_id": "018", "ciudad_nombre": "MAYOR OTAÑO" },
+            { "ciudad_id": "016", "ciudad_nombre": "LEANDRO OVIEDO" },
+            { "ciudad_id": "026", "ciudad_nombre": "LA PAZ" },
+            { "ciudad_id": "007", "ciudad_nombre": "CARMEN DEL PARANA" },
+            { "ciudad_id": "003", "ciudad_nombre": "CAMBYRETA" },
+            { "ciudad_id": "002", "ciudad_nombre": "BELLA VISTA" },
+            { "ciudad_id": "030", "ciudad_nombre": "YTAPUA POTY" },
+            { "ciudad_id": "025", "ciudad_nombre": "ALTO VERA" },
+            { "ciudad_id": "015", "ciudad_nombre": "JESUS" },
+            { "ciudad_id": "014", "ciudad_nombre": "HOHENAU" }
+        ]
+    },
+    {
+        "departamento_id": "08",
+        "departamento_nombre": "MISIONES",
+        "ciudades": [
+            { "ciudad_id": "001", "ciudad_nombre": "SAN JUAN BAUTISTA" },
+            { "ciudad_id": "009", "ciudad_nombre": "VILLA FLORIDA" },
+            { "ciudad_id": "008", "ciudad_nombre": "SANTIAGO" },
+            { "ciudad_id": "007", "ciudad_nombre": "SANTA ROSA" },
+            { "ciudad_id": "006", "ciudad_nombre": "SANTA MARIA" },
+            { "ciudad_id": "005", "ciudad_nombre": "SAN PATRICIO" },
+            { "ciudad_id": "004", "ciudad_nombre": "SAN MIGUEL" },
+            { "ciudad_id": "003", "ciudad_nombre": "SAN IGNACIO" },
+            { "ciudad_id": "002", "ciudad_nombre": "AYOLAS" },
+            { "ciudad_id": "010", "ciudad_nombre": "YABEBYRY" }
+        ]
+    },
+    {
+        "departamento_id": "09",
+        "departamento_nombre": "PARAGUARI",
+        "ciudades": [
+            { "ciudad_id": "012", "ciudad_nombre": "ROQUE GONZALEZ DE SANTA CRUZ" },
+            { "ciudad_id": "009", "ciudad_nombre": "PIRAYU" },
+            { "ciudad_id": "008", "ciudad_nombre": "MBUYAPEY" },
+            { "ciudad_id": "007", "ciudad_nombre": "LA COLMENA" },
+            { "ciudad_id": "006", "ciudad_nombre": "ESCOBAR" },
+            { "ciudad_id": "005", "ciudad_nombre": "CARAPEGUA" },
+            { "ciudad_id": "004", "ciudad_nombre": "CABALLERO" },
+            { "ciudad_id": "003", "ciudad_nombre": "CAAPUCU" },
+            { "ciudad_id": "002", "ciudad_nombre": "ACAHAY" },
+            { "ciudad_id": "017", "ciudad_nombre": "YBYTYMI" },
+            { "ciudad_id": "016", "ciudad_nombre": "YBYCUI" },
+            { "ciudad_id": "015", "ciudad_nombre": "YAGUARON" },
+            { "ciudad_id": "013", "ciudad_nombre": "SAPUCAI" },
+            { "ciudad_id": "011", "ciudad_nombre": "QUYQUYHO" },
+            { "ciudad_id": "010", "ciudad_nombre": "QUIINDY" },
+            { "ciudad_id": "001", "ciudad_nombre": "PARAGUARI" },
+            { "ciudad_id": "014", "ciudad_nombre": "TEBICUARY MI" }
+        ]
+    },
+    {
+        "departamento_id": "10",
+        "departamento_nombre": "ALTO PARANA",
+        "ciudades": [
+            { "ciudad_id": "006", "ciudad_nombre": "ITAKYRY" },
+            { "ciudad_id": "022", "ciudad_nombre": "DR. RAUL PEÑA" },
+            { "ciudad_id": "021", "ciudad_nombre": "TAVAPY" },
+            { "ciudad_id": "009", "ciudad_nombre": "COLONIA YGUAZU" },
+            { "ciudad_id": "018", "ciudad_nombre": "SAN ALBERTO" },
+            { "ciudad_id": "015", "ciudad_nombre": "SANTA ROSA DEL MONDAY" },
+            { "ciudad_id": "013", "ciudad_nombre": "SANTA RITA" },
+            { "ciudad_id": "012", "ciudad_nombre": "SAN CRISTOBAL" },
+            { "ciudad_id": "002", "ciudad_nombre": "PRESIDENTE FRANCO" },
+            { "ciudad_id": "011", "ciudad_nombre": "MINGA GUAZU" },
+            { "ciudad_id": "017", "ciudad_nombre": "MBARACAYU" },
+            { "ciudad_id": "010", "ciudad_nombre": "LOS CEDRALES" },
+            { "ciudad_id": "007", "ciudad_nombre": "JUAN E O LEARY" },
+            { "ciudad_id": "005", "ciudad_nombre": "HERNANDARIAS" },
+            { "ciudad_id": "004", "ciudad_nombre": "JUAN LEÓN MALLORQUIN" },
+            { "ciudad_id": "003", "ciudad_nombre": "DOMINGO MARTINEZ DE IRALA" },
+            { "ciudad_id": "020", "ciudad_nombre": "SANTA FE DEL PARANA" },
+            { "ciudad_id": "019", "ciudad_nombre": "IRUÑA" },
+            { "ciudad_id": "008", "ciudad_nombre": "NACUNDAY" },
+            { "ciudad_id": "014", "ciudad_nombre": "NARANJAL" },
+            { "ciudad_id": "016", "ciudad_nombre": "MINGA PORA" },
+            { "ciudad_id": "001", "ciudad_nombre": "CIUDAD DEL ESTE" }
+        ]
+    },
+    {
+        "departamento_id": "11",
+        "departamento_nombre": "CENTRAL",
+        "ciudades": [
+            { "ciudad_id": "011", "ciudad_nombre": "NUEVA ITALIA" },
+            { "ciudad_id": "010", "ciudad_nombre": "MARIANO ROQUE ALONSO" },
+            { "ciudad_id": "009", "ciudad_nombre": "LUQUE" },
+            { "ciudad_id": "008", "ciudad_nombre": "LIMPIO" },
+            { "ciudad_id": "007", "ciudad_nombre": "LAMBARE" },
+            { "ciudad_id": "019", "ciudad_nombre": "JOSÉ AUGUSTO SALDIVAR" },
+            { "ciudad_id": "017", "ciudad_nombre": "YPACARAI" },
+            { "ciudad_id": "016", "ciudad_nombre": "VILLETA" },
+            { "ciudad_id": "015", "ciudad_nombre": "VILLA ELISA" },
+            { "ciudad_id": "014", "ciudad_nombre": "SAN LORENZO" },
+            { "ciudad_id": "013", "ciudad_nombre": "SAN ANTONIO" },
+            { "ciudad_id": "003", "ciudad_nombre": "FERNANDO DE LA MORA" },
+            { "ciudad_id": "004", "ciudad_nombre": "GUARAMBARE" },
+            { "ciudad_id": "002", "ciudad_nombre": "CAPIATA" },
+            { "ciudad_id": "001", "ciudad_nombre": "AREGUA" },
+            { "ciudad_id": "012", "ciudad_nombre": "ÑEMBY" },
+            { "ciudad_id": "006", "ciudad_nombre": "ITAUGUA" },
+            { "ciudad_id": "018", "ciudad_nombre": "YPANE" },
+            { "ciudad_id": "005", "ciudad_nombre": "ITA" }
+        ]
+    },
+    {
+        "departamento_id": "12",
+        "departamento_nombre": "ÑEEMBUCU",
+        "ciudades": [
+            { "ciudad_id": "005", "ciudad_nombre": "GENERAL DIAZ" },
+            { "ciudad_id": "012", "ciudad_nombre": "SAN JUAN BAUTISTA" },
+            { "ciudad_id": "009", "ciudad_nombre": "LAURELES" },
+            { "ciudad_id": "008", "ciudad_nombre": "ISLA UMBU" },
+            { "ciudad_id": "007", "ciudad_nombre": "HUMAITA" },
+            { "ciudad_id": "006", "ciudad_nombre": "GUAZUCUA" },
+            { "ciudad_id": "004", "ciudad_nombre": "DESMOCHADO" },
+            { "ciudad_id": "003", "ciudad_nombre": "CERRITO" },
+            { "ciudad_id": "002", "ciudad_nombre": "ALBERDI" },
+            { "ciudad_id": "016", "ciudad_nombre": "VILLALBIN" },
+            { "ciudad_id": "015", "ciudad_nombre": "VILLA OLIVA" },
+            { "ciudad_id": "014", "ciudad_nombre": "VILLA FRANCA" },
+            { "ciudad_id": "013", "ciudad_nombre": "TACUARAS" },
+            { "ciudad_id": "011", "ciudad_nombre": "PASO DE PATRIA" },
+            { "ciudad_id": "010", "ciudad_nombre": "MAYOR MARTINEZ" },
+            { "ciudad_id": "001", "ciudad_nombre": "PILAR" }
+        ]
+    },
+    {
+        "departamento_id": "13",
+        "departamento_nombre": "AMAMBAY",
+        "ciudades": [
+            { "ciudad_id": "004", "ciudad_nombre": "ZANJA PYTA" },
+            { "ciudad_id": "001", "ciudad_nombre": "PEDRO JUAN CABALLERO" },
+            { "ciudad_id": "003", "ciudad_nombre": "CAPITAN BADO" },
+            { "ciudad_id": "002", "ciudad_nombre": "BELLA VISTA" }
+        ]
+    },
+    {
+        "departamento_id": "14",
+        "departamento_nombre": "CANINDEYU",
+        "ciudades": [
+            { "ciudad_id": "003", "ciudad_nombre": "VILLA SAN ISIDRO CURUGUATY" },
+            { "ciudad_id": "013", "ciudad_nombre": "YBY PYTA" },
+            { "ciudad_id": "012", "ciudad_nombre": "YBYRAROVANA" },
+            { "ciudad_id": "010", "ciudad_nombre": "NUEVA ESPERANZA" },
+            { "ciudad_id": "001", "ciudad_nombre": "SALTOS DEL GUAIRA" },
+            { "ciudad_id": "007", "ciudad_nombre": "GRAL. F. CABALLERO ALVAREZ" },
+            { "ciudad_id": "004", "ciudad_nombre": "VILLA YGATIMI" },
+            { "ciudad_id": "005", "ciudad_nombre": "ITANARA" },
+            { "ciudad_id": "014", "ciudad_nombre": "MARACANA" },
+            { "ciudad_id": "002", "ciudad_nombre": "CORPUS CHRISTHI" },
+            { "ciudad_id": "011", "ciudad_nombre": "YASY CAÑY" },
+            { "ciudad_id": "009", "ciudad_nombre": "LA PALOMA" },
+            { "ciudad_id": "006", "ciudad_nombre": "YPEHU" },
+            { "ciudad_id": "008", "ciudad_nombre": "KATUETE" }
+        ]
+    },
+    {
+        "departamento_id": "15",
+        "departamento_nombre": "PTE. HAYES",
+        "ciudades": [
+            { "ciudad_id": "006", "ciudad_nombre": "PUERTO FALCON" },
+            { "ciudad_id": "009", "ciudad_nombre": "GRAL. BRUGUEZ" },
+            { "ciudad_id": "008", "ciudad_nombre": "TTE. ESTEBAN MARTINEZ" },
+            { "ciudad_id": "007", "ciudad_nombre": "TTE. IRALA FERNANDEZ" },
+            { "ciudad_id": "003", "ciudad_nombre": "PUERTO PINASCO" },
+            { "ciudad_id": "005", "ciudad_nombre": "NANAWA" },
+            { "ciudad_id": "002", "ciudad_nombre": "BENJAMIN ACEVAL" },
+            { "ciudad_id": "001", "ciudad_nombre": "POZO COLORADO" },
+            { "ciudad_id": "004", "ciudad_nombre": "VILLA HAYES" }
+        ]
+    },
+    {
+        "departamento_id": "18",
+        "departamento_nombre": "CAPITAL",
+        "ciudades": [
+            { "ciudad_id": "030", "ciudad_nombre": "ASUNCION" }
+        ]
+    },
+    {
+        "departamento_id": "50",
+        "departamento_nombre": "EXTRANJERO",
+        "ciudades": [
+            { "ciudad_id": "008", "ciudad_nombre": "JAPON" },
+            { "ciudad_id": "005", "ciudad_nombre": "CHINA" },
+            { "ciudad_id": "004", "ciudad_nombre": "COREA" },
+            { "ciudad_id": "003", "ciudad_nombre": "BRASIL" },
+            { "ciudad_id": "002", "ciudad_nombre": "ARGENTINA" },
+            { "ciudad_id": "011", "ciudad_nombre": "RESTO DEL MUNDO" },
+            { "ciudad_id": "010", "ciudad_nombre": "PAISES EUROPEOS" }
+        ]
+    },
+    {
+        "departamento_id": "17",
+        "departamento_nombre": "ALTO PARAGUAY",
+        "ciudades": [
+            { "ciudad_id": "005", "ciudad_nombre": "BAHIA NEGRA" },
+            { "ciudad_id": "004", "ciudad_nombre": "CARMELO PERALTA" },
+            { "ciudad_id": "003", "ciudad_nombre": "MAYOR PABLO LAGERENZA" },
+            { "ciudad_id": "002", "ciudad_nombre": "LA VICTORIA" },
+            { "ciudad_id": "001", "ciudad_nombre": "FUERTE OLIMPO" }
+        ]
+    },
+    {
+        "departamento_id": "16",
+        "departamento_nombre": "BOQUERON",
+        "ciudades": [
+            { "ciudad_id": "005", "ciudad_nombre": "LOMA PLATA" },
+            { "ciudad_id": "099", "ciudad_nombre": "EUGENIO A GARAY" },
+            { "ciudad_id": "004", "ciudad_nombre": "FILADELFIA" },
+            { "ciudad_id": "002", "ciudad_nombre": "MARISCAL ESTIGARRIBIA" }
+        ]
+    }
+]
